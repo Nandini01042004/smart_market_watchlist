@@ -1,3 +1,12 @@
+# PulseWatch | Context-Aware Differential Market Watchlist
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-00d09c?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-market-watchlist-iota.vercel.app/)
+[![Next.js 14](https://img.shields.io/badge/Next.js_14-black?style=for-the-badge&logo=next.js&logoColor=white)](https://smart-market-watchlist-iota.vercel.app/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://smart-market-watchlist-iota.vercel.app/)
+
+> **Live Production URL:** [https://smart-market-watchlist-iota.vercel.app/](https://smart-market-watchlist-iota.vercel.app/)
+
+
 PulseWatch solves **information blindness** in traditional trading dashboards. Instead of forcing users to mentally calculate changes across dozens of red and green badges, PulseWatch dynamically detects statistical anomalies, computes cross-session price and volume deltas, and presents a prioritized catch-up briefing whenever a user returns.
 
 ---
